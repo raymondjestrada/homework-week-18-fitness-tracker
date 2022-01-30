@@ -28,9 +28,9 @@ The user should be able to:
 
 To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
 
-- [Set Up MongoDB Atlas](../04-Important/MongoAtlas-Setup.md)
+- [Set Up MongoDB Atlas](https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-blv-virt-fsf-pt-07-2021-u-c/-/blob/master/18-NoSQL/04-Important/MongoAtlas-Setup.md)
 
-- [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
+- [Deploy with Heroku and MongoDB Atlas](https://uwa.bootcampcontent.com/UWA-Bootcamp/uw-blv-virt-fsf-pt-07-2021-u-c/-/blob/master/18-NoSQL/04-Important/MongoAtlas-Deploy.md)
 
 ## License 
 
@@ -59,4 +59,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Published Website
 
-Please click [here]() for the Workout tracker website
+Please click [here](https://dry-springs-89384.herokuapp.com/) for the Workout tracker website
